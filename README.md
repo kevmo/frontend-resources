@@ -8,4 +8,15 @@ https://necolas.github.io/normalize.css/
 
 http://packery.metafizzy.co/ ($)
 
+
+## Fonts
+
+fonts.google.com
+
 Font-Awesome
+
+## Developer Tools
+
+http://pesticide.io/
+
+
