@@ -25,7 +25,7 @@ http://pesticide.io/
 
 ### Graphing Libraries
 
-chart.js
+http://www.chartjs.org/
 
 
 
