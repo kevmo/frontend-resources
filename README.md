@@ -1,22 +1,27 @@
-# css-resources
-Save your ass with these libraries and tools
+##### Save your ass with these libraries and tools
 
-
-https://daneden.github.io/animate.css/
+# Browsers suck
 
 https://necolas.github.io/normalize.css/
+Modernizr
 
-http://packery.metafizzy.co/ ($)
+# Flash bang wow!
+
+https://daneden.github.io/animate.css/
+http://packery.metafizzy.co/ 
 
 
 ## Fonts
-
+# Free fonts
 fonts.google.com
-
+# Icon Fonts
 Font-Awesome
 
 ## Developer Tools
 
 http://pesticide.io/
+
+
+
 
 
