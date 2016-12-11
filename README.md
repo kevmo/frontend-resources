@@ -1,23 +1,25 @@
 ##### Save your ass with these libraries and tools
 
-# Browsers suck
+# Frontend Development Toolbox
+
+### Browsers suck
 
 https://necolas.github.io/normalize.css/
 Modernizr
 
-# Flash bang wow!
+### Flash bang wow!
 
 https://daneden.github.io/animate.css/
 http://packery.metafizzy.co/ 
 
 
-## Fonts
-# Free fonts
+### Fonts
+#### Free fonts
 fonts.google.com
-# Icon Fonts
+#### Icon Fonts
 Font-Awesome
 
-## Developer Tools
+### Developer Tools
 
 http://pesticide.io/
 
