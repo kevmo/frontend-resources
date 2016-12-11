@@ -23,7 +23,9 @@ Font-Awesome
 
 http://pesticide.io/
 
+### Graphing Libraries
 
+chart.js
 
 
 
