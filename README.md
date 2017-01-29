@@ -3,15 +3,12 @@
 # Frontend Development Toolbox
 
 ### Browsers suck
-
 https://necolas.github.io/normalize.css/
 Modernizr
 
 ### Flash bang wow!
-
-https://daneden.github.io/animate.css/
-http://packery.metafizzy.co/ 
-
++ https://daneden.github.io/animate.css/
++ http://packery.metafizzy.co/ 
 
 ### Fonts
 #### Free fonts
@@ -20,13 +17,14 @@ fonts.google.com
 Font-Awesome
 
 ### Developer Tools
-
 + http://pesticide.io/
 + [Premonish] (https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
 
 ### Graphing Libraries
++ [Chart.js] (http://www.chartjs.org/): interactive charting powers
 
-http://www.chartjs.org/
+### Palette / Color
++ [Colors] (http://clrs.cc/): "A nice color palette for the web"
 
 
 
