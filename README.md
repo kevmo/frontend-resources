@@ -23,6 +23,9 @@ Font-Awesome
 ### CSS
 + [Flexbox Grid] (http://flexboxgrid.com/): A v pleasing grid system based on the flex display property
 
+### HTML
++ [htmlreference] (http://htmlreference.io/): Quick ref to html elements and attributes
+
 ### Graphing Libraries
 + [Chart.js] (http://www.chartjs.org/): interactive charting powers
 
