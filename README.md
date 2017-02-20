@@ -8,7 +8,8 @@ Modernizr
 
 ### Flash bang wow!
 + https://daneden.github.io/animate.css/
-+ http://packery.metafizzy.co/ 
++ [Packery] ( http://packery.metafizzy.co/): Gapless, draggable grid layouts 
++ [noUiSlider] (https://refreshless.com/nouislider/): JavaScript range slider
 
 ### Fonts
 #### Free fonts
