@@ -5,6 +5,7 @@
 ## Browsers suck
 https://necolas.github.io/normalize.css/
 Modernizr
++ [Can I use __ ?](http://caniuse.com/): bro can u even use that thing in that pedestrian browser
 
 ---
 ## Flash bang wow!
@@ -23,7 +24,6 @@ Modernizr
 ## Developer Tools
 + http://pesticide.io/
 + [Premonish](https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
-+ [Can I use __ ?](http://caniuse.com/): bro can u even use that thing in that pedestrian browser
 
 ---
 ## CSS & HTML
